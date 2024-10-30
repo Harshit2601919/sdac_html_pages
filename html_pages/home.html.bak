@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><img src="../carr/logo.jpg" width="100" height="100" border="0" alt=""></center>
+  <center><a href="home.html">home</a>
+  <a href="about.html">about</a>
+  <a href="contact.html">contact</a>
+  <a href="register.html">register</a></center>
+  <hr>
+  
+  <center><img src="../carr/homepage.jpg" width="900" height="300" border="0" alt=""></center>
+  
+  <center><h3>Services</h3></center>
+  
+<form method="post" action="">
+	<table>
+  <tr>
+	<td><center><img src="../carr/image1.jpg" width="300" height="168" border="0" alt=""></center></td>
+	<td><center><img src="../carr/image2.jpg" width="248" height="150" border="0" alt=""></center></td>
+	<td><center><img src="../carr/image3.jpg" width="276" height="183" border="0" alt=""></center></td>
+  </tr>
+  <tr>
+	<td><center>Marutii</center></td>
+	<td><center>BMW</center></td>
+	<td><center>Ferarri</center></td>
+  </tr>
+  <tr>
+	<td>The base engine offers a good balance between power and efficiency, while the V6 provides a sportier feel with 301 horsepower.
+</td>
+	<td>
+High-efficiency electric motor delivers smooth, instant torque.Dual-motor all-wheel-drive available in higher trims.</td>
+	<td>Known for off-road capabilities with 4x4 drivetrain options and high ground clearance.The Rubicon trim includes locking differentials, upgraded suspension, and heavy-duty axles for extreme off-roading.</td>
+  </tr>
+  </table>
+</form>
+  <hr>
+  <center>&copy;All Rights are reserved </center>
+ </body>
+</html>
